@@ -18,7 +18,7 @@
 Dependencies:
 * [qb-core](https://github.com/qbcore-framework/qb-core)
 * [qb-target](https://github.com/BerkieBb/qb-target)
-* [nh-context](https://github.com/qbcore-framework/qb-menu)
+* [nh-context](https://github.com/g3shaa/nh-context)
 
 
 ![image](https://user-images.githubusercontent.com/64840882/173235128-6f68e71b-28fb-475b-af60-246d610db5dc.png)
